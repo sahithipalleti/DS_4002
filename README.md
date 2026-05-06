@@ -32,9 +32,11 @@ This project was completed using:
 ## Repository Map
 
 ```text
+
 restaurant-sentiment-case-study/
 │
 ├── README.md
+├── requirements.txt
 │
 ├── data/
 │   └── restaurant_reviews.csv
@@ -42,14 +44,14 @@ restaurant-sentiment-case-study/
 ├── hook_document/
 │   └── hook_document.pdf
 │
-├── rubric/ 
+├── rubric/
 │   └── cs3_rubric.pdf
 │
 └── references/
     ├── starter_code.py
-    ├── Understanding Sentiment Analysis.pdf/
-    └── Opinion mining and sentiment analysis.pdf/
-    └── Hospitality_Insights_Restaurant_Reviews.pdf.pdf
+    ├── Hospitality_Insights_Restaurant_Reviews.pdf.pdf
+    ├── sentiment_analysis_articles/
+    └── restaurant_review_articles/
 ```
 
 ---
