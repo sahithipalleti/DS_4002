@@ -49,6 +49,7 @@ restaurant-sentiment-case-study/
     ├── starter_code.py
     ├── Understanding Sentiment Analysis.pdf/
     └── Opinion mining and sentiment analysis.pdf/
+    └── Hospitality_Insights_Restaurant_Reviews.pdf.pdf
 ```
 
 ---
