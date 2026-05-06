@@ -42,13 +42,13 @@ restaurant-sentiment-case-study/
 ├── hook_document/
 │   └── hook_document.pdf
 │
-├── rubric/
+├── rubric/ 
 │   └── cs3_rubric.pdf
 │
 └── references/
     ├── starter_code.py
-    ├── sentiment_analysis_articles/
-    └── restaurant_review_articles/
+    ├── Understanding Sentiment Analysis.pdf/
+    └── Opinion mining and sentiment analysis.pdf/
 ```
 
 ---
