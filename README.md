@@ -52,6 +52,8 @@ restaurant-sentiment-case-study/
     ├── Hospitality_Insights_Restaurant_Reviews.pdf.pdf
     ├── sentiment_analysis_articles/
     └── restaurant_review_articles/
+    └── What is Sentiment Analysis/
+    └── The Importance of Customer Reviews/
 ```
 
 ---
