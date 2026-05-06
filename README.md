@@ -1,7 +1,7 @@
 # DS_4002
 # Restaurant Review Sentiment Analysis Case Study
 
-This repository contains a DS 4002 case study based on the project **Predicting Restaurant Review Sentiment From Text**. The goal of this case study is to guide students through building a machine learning model that predicts whether restaurant reviews are positive, neutral, or negative based on written review text.
+This repository contains a case study based on the project Predicting Restaurant Review Sentiment From Text. The goal of this case study is to guide students through building a machine learning model that predicts whether restaurant reviews are positive, neutral, or negative based on written review text.
 
 ---
 
